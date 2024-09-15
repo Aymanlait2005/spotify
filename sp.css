@@ -1,0 +1,127 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    height: 60px;
+    width: 100%;
+    box-shadow: 0px 2px 7px 1px black;    
+}
+.sh{
+    margin: 0;
+    color:  #c72092;
+    font-size: 40px;
+    height: 60px;
+}
+.s{
+    margin: 0;
+    color: #6c14d0;
+    font-size: 40px;
+    height: 60px;
+}
+.sho{
+    margin: 0;
+    display: flex;
+    height: 60px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.lie{
+    margin: 0;
+    margin-left: 50px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ff{
+    display: flex;
+    height: 60px;
+}
+#ico{
+    margin: 0;
+    height: 60px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ll{
+    font-size: 70px;
+    position: absolute;
+    top: 290px;
+    left: 10%;
+
+}
+.lk{
+    margin: 0;
+    color: #6c14d0;
+}
+.ln{
+    margin: 0;
+    color:  #c72092;
+}
+
+.lo{
+    position: absolute;
+    font-size: 18px;
+    top: 490px;
+    left: 10%;
+}
+html{
+    background-image: url('bg1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.imggg{
+    position: absolute;
+    top: 74px;
+    left: 813px;
+    width: 680px;
+    height: 670px;
+}
+.btn{
+    background-image: linear-gradient(  90deg , #c72092 ,  #6c14d0);
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+    position: absolute;
+    top: 628px;
+    left: 148px;
+    margin-top: 10px;
+}
+.card{
+    margin-left: 60px;
+    position: relative;
+    top: 694px;
+    left: 23px;
+    justify-content: center;align-items: center; display: flex; flex-direction: column;
+    border: solid #c72092 2px;
+    width: 250px;
+    height: 320px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px #6c14d0;
+}
+.btnn{
+    background-image: linear-gradient( 90deg,#c72092,#6c14d0);
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+   
+}
+.start{
+    color: yellow;
+    margin-block: 10px;
+}
+.cardd{
+    display: flex;
+    margin-top: 180px;
+}
